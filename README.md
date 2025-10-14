@@ -13,3 +13,6 @@ is available
 [here](https://github.com/complexico/holle-list-barrier-islands/blob/main/processing-seumalur-googlespreadsheet.R)
 from [this
 repository](https://github.com/complexico/holle-list-barrier-islands).
+The digitised version of the Seumalur wordlist is part of the group
+project in [this
+repository](https://github.com/complexico/lexico-holle-list-barrier-islands).
