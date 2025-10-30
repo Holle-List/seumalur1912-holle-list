@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised wordlist for Seumalur (NBG 1912) derived from
+  Stokhof and Almanar's "Holle lists: Vocabularies in
+  languages of Indonesia, Vol. 10/3: Islands off the west
+  coast of Sumatra" from 1987
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file and the original legacy sources (Stokhof 1980; Stokhof and Almanar 1987)
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+  - given-names: Putu Radia Kalyana
+    family-names: Pramadicha
+    affiliation: Udayana University
+  - given-names: Made Shelpy Krismita
+    family-names: Sanjaya
+    affiliation: Udayana University
+  - given-names: Luh Pramitha
+    family-names: Maheswari
+    affiliation: Udayana University
+  - given-names: Nyoman Dinda Prapti
+    family-names: Dewijayanthi
+    affiliation: Udayana University
+url: 'https://github.com/Holle-List/seumalur1912-holle-list'
+keywords:
+  - Holle List
+  - wordlist
+  - Barrier Islands Languages
+  - Indonesian Languages
+  - Digital Humanities
+  - Linguistics
+  - Lexicography
+license: CC-BY-SA-4.0
+date-released: '2025-10-14'
